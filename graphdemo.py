@@ -1,6 +1,6 @@
 import tkinter as tk
 LARGE_FONT= ("Verdana", 15)
-Class ShowGraph(tk.Tk):
+Class DispGraph(tk.Tk):
   def __init__(self, *args, **kwargs):
     tk.Tk.__init__(self, *args, **kwargs)
     container=tk.Frame(self)
@@ -24,5 +24,5 @@ Class StartPage(tk.Frame):
     label.pack(pady=10, padx=10)
     
     
-int=ShowGraph()
+int=DispGraph()
 int.mainloop()
