@@ -1,4 +1,6 @@
 import tkinter as tk
+from tkinter import *
+
 LARGE_FONT= ("Verdana", 15)
 Class DispGraph(tk.Tk):
   def __init__(self, *args, **kwargs):
