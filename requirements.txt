@@ -6,3 +6,4 @@ pillow>=6.2
 pyparsing>=2.0.3
 setuptools
 tkinter>=8.6
+tcl>=8.6
