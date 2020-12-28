@@ -1,8 +1,8 @@
 import tkinter as tk
-from tkinter import *
+
 
 LARGE_FONT= ("Verdana", 15)
-Class DispGraph(tk.Tk):
+class DispGraph(tk.Tk):
   def __init__(self, *args, **kwargs):
     tk.Tk.__init__(self, *args, **kwargs)
     container=tk.Frame(self)
@@ -19,10 +19,10 @@ Class DispGraph(tk.Tk):
     frame=self.frames[cont]
     frame.tkraise()
     
-Class StartPage(tk.Frame):
+class StartPage(tk.Frame):
   def __init__(self, parent, controller):
     tk.Frame.__init__(self,parent)
-    label= tk.Label(self, text="Show Graph interface", font=LRAGE_FONT)
+    label= tk.Label(self, text="Show Graph interface", font=LARGE_FONT)
     label.pack(pady=10, padx=10)
     
     
