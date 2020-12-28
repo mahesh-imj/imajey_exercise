@@ -26,5 +26,5 @@ class StartPage(tk.Frame):
     label.pack(pady=10, padx=10)
     
     
-int=DispGraph()
-int.mainloop()
+disp=DispGraph()
+disp.mainloop()
