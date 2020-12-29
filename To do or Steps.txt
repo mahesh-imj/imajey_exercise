@@ -1,0 +1,9 @@
+setup matplotlib for github<Repl.it
+[install PyCharm/flutter]future
+import matplotlib.animation as anim, anim.FuncAnimation(***)
+create and open text file coord.txt to write equation values
+[hard code paper values in text file coord.txt to tutorial code]
+USE nbinteract with Jupyter[Repl.it/github]
+[Use PyAutoGui for auto submitting values to coord.txt]
+TRY DJANGO[DELPHI]>PyCharm
+[try PAGE] try Spyder for GUI
