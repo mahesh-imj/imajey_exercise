@@ -1,4 +1,5 @@
-setup matplotlib for github<Repl.it //failed
+setup matplotlib for github<Repl.it //failed but possible with replit
+import os and install 1 then
 [install PyCharm/flutter]future
 import matplotlib.animation as anim, anim.FuncAnimation(***)
 create and open text file coord.txt to write equation values
