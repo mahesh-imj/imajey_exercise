@@ -1,4 +1,4 @@
-setup matplotlib for github<Repl.it
+setup matplotlib for github<Repl.it //failed
 [install PyCharm/flutter]future
 import matplotlib.animation as anim, anim.FuncAnimation(***)
 create and open text file coord.txt to write equation values
@@ -7,3 +7,4 @@ USE nbinteract with Jupyter[Repl.it/github]
 [Use PyAutoGui for auto submitting values to coord.txt]
 TRY DJANGO[DELPHI]>PyCharm
 [try PAGE] try Spyder for GUI
+[try turtle for attractive/unique GUI] Polygon support with Turtle
