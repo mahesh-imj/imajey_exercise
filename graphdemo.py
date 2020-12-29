@@ -24,9 +24,6 @@ class StartPage(tk.Frame):
     tk.Frame.__init__(self,parent)
     label= tk.Label(self, text="Show Graph interface", font=LARGE_FONT)
     label.pack(pady=10, padx=10)
-    plt.plot(y=e^t*sin(x*t)+sq(x)
-    plt.show()
-    
-    
+        
 disp=DispGraph()
 disp.mainloop()
