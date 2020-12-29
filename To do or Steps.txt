@@ -1,5 +1,6 @@
 setup matplotlib for github<Repl.it //failed but possible with replit
-import os and install 1 then
+import os and install os.system('pip install --upgrade <package>')
+add list comprehension for equation x=[i for i in range(-3,3)], y=[e^t... for i in x]
 [install PyCharm/flutter]future
 import matplotlib.animation as anim, anim.FuncAnimation(***)
 create and open text file coord.txt to write equation values
