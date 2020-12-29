@@ -5,6 +5,10 @@
 
 trigger:
 - main
+- name: Epitech Graphical Requirements
+  uses: aureliancnx/epigraphical-action@epigraphical-action
+- name: Setup Graphviz
+  uses: ts-graphviz/setup-graphviz@v1
 
 pool:
   vmImage: 'ubuntu-latest'
