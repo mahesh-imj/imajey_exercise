@@ -1,8 +1,9 @@
-import matplotlib.plot as plt
+import matplotlib.pyplot as plt
+%matplotlib inline
 from math import *
+x=[i for i in range(-3,3)]
 for t in range(0,3):
-   for x in range(-3,3):
-      for y in float((math.e^t)*math.sin(x*t)+(x*x)):
+   y=[float((math.e^t)*math.sin(i*t)+(i*i)) for i in x]  
          plt.plot(x,y, label=f"for t= {t} ")
          plt.xlabel('X axis')
          plt.ylabel('Y axis')
