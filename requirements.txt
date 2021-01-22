@@ -6,3 +6,9 @@ dearpygui
 PySimpleGUI
 panda3d-kivy
 open3d
+guizero
+bpy
+bpy-build
+mpl_toolkits
+pyglet
+pi3d
